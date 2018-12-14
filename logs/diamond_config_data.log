@@ -1,0 +1,52 @@
+12-14 11:02:45 - dataId=redis-config ,group=COMMON_REDIS ,content=[
+{
+	module: "shop-sku",
+	hostname: "",
+	port: 6379,
+	maxWait: 1000,
+	minIdle: 1,
+	maxIdle: 8,
+	maxActive: 100,
+	clusterNodes: "10.19.37.185:7000,10.19.37.185:7001,10.19.93.48:7000,10.19.129.109:7000,10.19.65.68:7000,10.19.91.155:7000",
+	maxRedirects: 5,
+	services: ["trade-integration-center","posdm-center"]
+}]
+12-14 11:03:46 - dataId=redis-config ,group=COMMON_REDIS ,content=[
+{
+	module: "shop-sku",
+	hostname: "",
+	port: 6379,
+	maxWait: 1000,
+	minIdle: 1,
+	maxIdle: 8,
+	maxActive: 100,
+	clusterNodes: "10.19.37.185:7000,10.19.37.185:7001,10.19.93.48:7000,10.19.129.109:7000,10.19.65.68:7000,10.19.91.155:7000",
+	maxRedirects: 5,
+	services: ["trade-integration-center","posdm-center"]
+}]
+12-14 14:45:19 - dataId=redis-config ,group=COMMON_REDIS ,content=[
+{
+	module: "shop-sku",
+	hostname: "",
+	port: 6379,
+	maxWait: 1000,
+	minIdle: 1,
+	maxIdle: 8,
+	maxActive: 100,
+	clusterNodes: "10.19.37.185:7000,10.19.37.185:7001,10.19.93.48:7000,10.19.129.109:7000,10.19.65.68:7000,10.19.91.155:7000",
+	maxRedirects: 5,
+	services: ["trade-integration-center","posdm-center"]
+}]
+12-14 14:52:12 - dataId=redis-config ,group=COMMON_REDIS ,content=[
+{
+	module: "shop-sku",
+	hostname: "",
+	port: 6379,
+	maxWait: 1000,
+	minIdle: 1,
+	maxIdle: 8,
+	maxActive: 100,
+	clusterNodes: "10.19.37.185:7000,10.19.37.185:7001,10.19.93.48:7000,10.19.129.109:7000,10.19.65.68:7000,10.19.91.155:7000",
+	maxRedirects: 5,
+	services: ["trade-integration-center","posdm-center"]
+}]
